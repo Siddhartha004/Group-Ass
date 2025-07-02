@@ -1,0 +1,3 @@
+username,name,age,role
+lama,Siddhartha,20,Admin
+Khanal ,Sugant Khanal,20,Student

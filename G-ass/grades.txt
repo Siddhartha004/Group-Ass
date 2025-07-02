@@ -1,0 +1,2 @@
+username,grade1,grade2,grade3
+Khanal ,10,20,30,5,1
